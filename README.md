@@ -1,15 +1,14 @@
-# Movie List
-A simple web application for movie fanatic
+＃ 電影清單
+一個簡單的電影愛好者的網路應用程式
 
-## Features
-- listing movies from movie api
-- searching movies by title
-- add movies to your favorite list
-- manage your favorite list
+## 功能
+- 從電影 api 列出電影
+- 依標題搜尋電影
+- 將電影加入你的最愛清單
+- 管理你的最愛清單
 
-### Searching
-type the title of the movies in search bar
-### Favorite List
-In index page, press the `+` button on the movie to keep it into favorite list.
-You can checkout the favorite list in `favorite.html`
-press `x` to remove it from favorite list
+### 搜尋
+- 在搜尋欄輸入電影的標題
+- 
+### 最愛清單
+在首頁，按下電影上的 + 按鈕將其加入最愛清單。 你可以在 favorite.html 查看你的最愛清單 按下 x 可以將其從最愛清單移除
